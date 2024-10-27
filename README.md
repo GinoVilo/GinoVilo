@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GinoVilo
 - 👀 I’m interested in Python, IA, Code Dev, 
-- 🌱 I’m currently learning ML, IA, Python
+- 🌱 I’m currently learning ML, IA, Python CNN, Computer Vsion NN
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
